@@ -1,6 +1,6 @@
 # Learning JavaScript: Free Resources & Official Documentation
 
-JavaScript is a versatile and essential language for web development. Whether you're just starting out or looking to enhance your skills, there are numerous free resources available. Here's a curated list of resources, the official JavaScript documentation, and the ECMAScript specifications to help you on your journey.
+JavaScript is a versatile and essential language for web development. Whether you're just starting out or looking to enhance your skills, there are numerous free resources available. Here's a curated list of resources, the official JavaScript documentation, the ECMAScript specifications, and a free certification course offered by Google to help you on your journey.
 
 ## Official JavaScript Documentation
 
@@ -13,7 +13,7 @@ JavaScript is a versatile and essential language for web development. Whether yo
 - **ECMA International**:
   - **URL**: [ECMAScript® 2022 Language Specification](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
   - **Description**: ECMAScript is the standard that defines JavaScript. This link provides access to the latest specifications, essential for anyone looking to deeply understand the language features and compliance.
-
+ 
 ## Free Learning Resources
 
 ### Online Courses
@@ -54,4 +54,4 @@ JavaScript is a versatile and essential language for web development. Whether yo
 
 ## Conclusion
 
-Whether you prefer interactive tutorials, reading books, or watching video lessons, there are plenty of free resources available to learn JavaScript. The official documentation on MDN, along with the ECMAScript specifications, will also be an invaluable reference as you progress in your learning. Happy coding!
+Whether you prefer interactive tutorials, reading books, or watching video lessons, there are plenty of free resources available to learn JavaScript. The official documentation on MDN, along with the ECMAScript specifications, and the free certification courses offered by Google, will also be an invaluable reference as you progress in your learning. Happy coding!

@@ -1,7 +1,7 @@
 // JavaScript data types and categories
 
 // 1. Primitive data types in JavaScript are immutable values that have no properties or methods. There are 7 primitive data types in JavaScript. They are: Number, String, Boolean, Undefined, Null, Symbol, BigInt, NaN. 
-// example URL: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#primitive_values
+// example reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#primitive_values
 
 // 1.1. Number
 let num = 10;

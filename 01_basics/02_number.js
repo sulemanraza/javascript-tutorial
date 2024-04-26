@@ -1,5 +1,5 @@
 // JavaScript Number type represents integer and floating-point numbers.
-// doc URL: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number
+// reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number
 
 // define a number variable and log it to the console
 let num = new Number(10);

@@ -1,5 +1,5 @@
 // JavaScript Boolean object is an object wrapper for a boolean value.
-// MDN Doc URL: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean
+// MDN reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean
 
 // 1. Boolean object
 let bool = new Boolean(true);
@@ -21,6 +21,6 @@ console.log(boolPrim); // false
 
 // what is constructor property of an object?
 // The constructor property returns a reference to the Object constructor function that created the instance object.
-// MDN Doc URL: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor
+// MDN reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor
 console.log(boolObj.constructor); // [Function: Boolean]
 console.log(boolPrim.constructor); // [Function: Boolean]
