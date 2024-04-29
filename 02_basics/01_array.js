@@ -72,8 +72,3 @@ const cars = new Array("Toyota", "Honda", "BMW");
 // console.log(fruits.includes("banana")); // true
 
  
-
-
-
-
- 
